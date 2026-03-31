@@ -20,7 +20,7 @@ focused on making ai actually useful — in medicine, real estate, gaming, and w
 
 ### background
 
-- **ml research** @ isbbaliga lab (nobel prize-winning institute for systems biology) — hiv & preeclampsia models
+- **ml research** @ isb (nobel prize-winning institute for systems biology) — hiv & preeclampsia models
 - **1st place** wa state science & engineering fair — 3d cnn brain stroke classifier
 - **director of expansion** @ ai valley
 - **funded trader** @ topstep ($150k)
