@@ -10,7 +10,7 @@ focused on making ai actually useful — in medicine, real estate, gaming, and w
 
 | project | description |
 |---|---|
-| [OncoScan AI](https://oncoscan.ai) | oral cancer detection via computer vision — patent pending, vc-funded, aws-backed |
+| [OncoScan AI](https://oncoscan.ai) | oral cancer detection via computer vision — patent pending, incubated, aws-backed |
 | [really.ai](https://github.com/v1hns/really.ai) | conversational ai platform for real estate matching |
 | [cloneSMP](https://github.com/seanchiuai/cloneSMP) | autonomous minecraft agents with rl + llm planning |
 | [pixel-agents](https://github.com/v1hns/pixel-agents) | pixel art office for concurrent claude code agents |
