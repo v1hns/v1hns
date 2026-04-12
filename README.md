@@ -11,10 +11,11 @@ focused on making ai actually useful — in medicine, real estate, gaming, and w
 | project | description |
 |---|---|
 | [OncoScan AI](https://oncoscan.ai) | oral cancer detection via computer vision — patent pending, incubated, aws-backed |
-| [really.ai](https://github.com/v1hns/really.ai) | conversational ai platform for real estate matching |
+| [really.ai](https://github.com/v1hns/really.ai) | a real estate superconnecter |
+| [medsim](https://github.com/v1hns/medsim) | agent swarm simulations on world model reconstructions for trauma center optimization — 🏆 most innovative, 2026 harvard health systems innovation lab hackathon |
 | [cloneSMP](https://github.com/seanchiuai/cloneSMP) | autonomous minecraft agents with rl + llm planning |
-| [pixel-agents](https://github.com/v1hns/pixel-agents) | pixel art office for concurrent claude code agents |
-| [whatsapp bot](https://github.com/v1hns/whatsappbot2) | whatsapp automation bot |
+| [pixel-agents](https://github.com/v1hns/pixel-agents) | pixel office |
+| [whatsappbot2](https://github.com/v1hns/whatsappbot2) | whatsappbot useable by anyone |
 
 ---
 
@@ -34,3 +35,4 @@ python · typescript · c++ · r · pytorch · tensorflow · fastapi · aws · g
 ---
 
 [site](https://v1hns.github.io/personal-site/) · [linkedin](https://linkedin.com/in/vihaan-shringi-4667b12b1) · vihaans@andrew.cmu.edu
+
