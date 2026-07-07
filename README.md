@@ -12,9 +12,7 @@ focused on making ai actually useful — in medicine, real estate, gaming, and w
 |---|---|
 | [OncoScan AI](https://oncoscan.ai) | oral cancer detection via computer vision — patent pending, incubated, aws-backed |
 | [Presonance](https://github.com/Presonance) | neuroscience-grounded creator analytics — predicting video engagement & retention from brain-encoded content |
-| [really.ai](https://github.com/v1hns/really.ai) | a real estate superconnecter |
 | [medsim](https://github.com/v1hns/medsim) | agent swarm simulations on world model reconstructions for trauma center optimization — 🏆 most innovative, 2026 harvard health systems innovation lab hackathon |
-| [cloneSMP](https://github.com/seanchiuai/cloneSMP) | autonomous minecraft agents with rl + llm planning |
 
 ---
 
